@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [@filippo-ferrando](@filippo-ferrando)
 
-- 💬 Ask me about **Linux systems!**
+- 💬 Interested in **Linux systems, Blockchain, Cybersecurity and IoT**
 
-- 📫 How to reach me: [ferrandodfilippo@gmail.com](mailto:ferrandodfilippo@gmail.com)
+- 📫 How to reach me: 📧[Mail](mailto:ferrandodfilippo@gmail.com)
 
-- 📄 If you want to know more about me: [my portfolio](https://filippoferrando.github.io/portfolio/)
+- 📄 If you want to know more about me: [my Portfolio](https://filippoferrando.github.io/portfolio/)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
