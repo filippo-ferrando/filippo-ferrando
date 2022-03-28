@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: [ferrandodfilippo@gmail.com](mailto:ferrandodfilippo@gmail.com)
 
-- 📄 If you want to know more about me: [https://filippoferrando.github.io/portfolio/](https://filippoferrando.github.io/portfolio/)
+- 📄 If you want to know more about me: [my portfolio](https://filippoferrando.github.io/portfolio/)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
