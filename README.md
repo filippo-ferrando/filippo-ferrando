@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Filippo Ferrando!</h1>
 <h3 align="center">I'm an Italian CS student</h3>
 
+![Profile views counter](https://komarev.com/ghpvc/?username=filippo-ferrando&color=orange)
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=filippo-ferrando" alt="filippo-ferrando" /></a> </p>
 
 - 🔭 I’m currently working on [this IA project!](https://github.com/cassis-squad)
