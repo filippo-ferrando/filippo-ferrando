@@ -2,7 +2,10 @@
 <h3 align="center">I'm an Italian CS student</h3>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=filippo-ferrando" alt="filippo-ferrando" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=filippo-ferrando" alt="filippo-ferrando" /></a> 
+</p>
+
+
 
 - 🔭 I’m currently working on [this IA project!](https://github.com/cassis-squad)
 
@@ -29,5 +32,7 @@
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=filippo-ferrando&show_icons=true&locale=en&layout=compact" alt="filippo-ferrando" /></p>
+
+<p align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></p>
 
 
