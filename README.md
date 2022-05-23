@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [this IA project!](https://github.com/cassis-squad)
 
-- 👨‍💻 All of my projects are available at [@filippo-ferrando](@filippo-ferrando)
+- 👨‍💻 All of my projects are available at [@filippo-ferrando](https://github.com/filippo-ferrando?tab=repositories)
 
 - 💬 Interested in **Linux systems, Blockchain, Cybersecurity and IoT**
 
