@@ -35,6 +35,8 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=filippo-ferrando&show_icons=true&locale=en&layout=compact" alt="filippo-ferrando" /></p>
 
+## Let's have a laugh 😆
+
 <p align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></p>
 
 
