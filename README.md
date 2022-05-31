@@ -15,6 +15,8 @@
 
 - 📫 How to reach me: 📧[Mail](mailto:ferrandodfilippo@gmail.com)
 
+- 📎 Here you can find my Curriculum Vitae: [CV](https://github.com/filippo-ferrando/curriculum-vitae)
+
 - 📄 If you want to know more about me: [my Portfolio](https://filippoferrando.github.io/portfolio/)
 
 <h3 align="center">Connect with me:</h3>
