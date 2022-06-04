@@ -17,7 +17,7 @@
 
 - 📎 Here you can find my Curriculum Vitae: [CV](https://github.com/filippo-ferrando/curriculum-vitae)
 
-- 📄 If you want to know more about me: [my Portfolio](https://filippoferrando.github.io/portfolio/)
+- 📄 If you want to know more about me: [my Portfolio](https://filippo-ferrando.github.io/)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
