@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on [this IA project!](https://github.com/cassis-squad)
+- 🔭 I’m currently working on [this IA project!](https://github.com/chassis-squad)
 
 - 👨‍💻 All of my projects are available at [@filippo-ferrando](https://github.com/filippo-ferrando?tab=repositories)
 
