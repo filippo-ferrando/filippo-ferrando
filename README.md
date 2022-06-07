@@ -13,7 +13,7 @@
 
 - 💬 Interested in **Linux systems, Blockchain, Cybersecurity and IoT**
 
-- 📫 How to reach me: 📧[Mail](mailto:ferrandodfilippo@gmail.com)
+- 📫 How to reach me: 📧[Mail](mailto:ferrandodfilippo@protonmail.com)
 
 - 📎 Here you can find my Curriculum Vitae: [CV](https://github.com/filippo-ferrando/curriculum-vitae)
 
