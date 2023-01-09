@@ -18,8 +18,6 @@
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 ## Connect with me
 <p align="center">
 <a href="https://linkedin.com/in/filippo-ferrando-damillano-3809431a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="filippo-ferrando-damillano-3809431a2" height="30" width="40" /></a>
@@ -27,12 +25,7 @@
 <a href="https://twitter.com/ferrandofilippo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ferrandofilippo" height="30" width="40" /></a>
 </p>
 <p align="center"> <a href="https://twitter.com/ferrandofilippo" target="blank"><img src="https://img.shields.io/twitter/follow/ferrandofilippo?logo=twitter&style=for-the-badge" alt="ferrandofilippo" /></a> </p>
-
-
-
-<img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=filippo-ferrando&show_icons=true&theme=onedark" alt="Filippo's Github Stats" width="60%">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filippo-ferrando&theme=onedark" width="37%" alt="Filippo's Top Languages">
 
 [![Matrix](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
