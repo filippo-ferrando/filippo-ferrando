@@ -3,7 +3,12 @@
 
 
 # 💫 About Me:
-- 🔭 I’m currently working on [this IA project!](https://github.com/chassis-squad)<br><br>- 👨‍💻 All of my projects are available at [@filippo-ferrando](https://github.com/filippo-ferrando?tab=repositories)<br><br>- 💬 Interested in **Linux systems, Blockchain, Cybersecurity and IoT**<br><br>- 📫 How to reach me: 📧[Mail](mailto:ferrandodfilippo@protonmail.com)<br><br>- 📎 Here you can find my Curriculum Vitae: [CV](https://github.com/filippo-ferrando/curriculum-vitae)<br><br>- 📄 If you want to know more about me: [my Portfolio](https://filippo-ferrando.github.io/)
+- 🔭 I’m currently working on [this IA project!](https://github.com/chassis-squad)
+- 👨‍💻 All of my projects are available at [@filippo-ferrando](https://github.com/filippo-ferrando?tab=repositories)
+- 💬 Interested in **Linux systems, Blockchain, Cybersecurity and IoT**
+- 📫 How to reach me: 📧[Mail](mailto:ferrandodfilippo@protonmail.com)
+- 📎 Here you can find my Curriculum Vitae: [CV](https://github.com/filippo-ferrando/curriculum-vitae)
+- 📄 If you want to know more about me: [my Portfolio](https://filippo-ferrando.github.io/)
 
 
 # 💻 Tech Stack:
