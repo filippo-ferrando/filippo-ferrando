@@ -29,4 +29,6 @@
 
 [![Matrix](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
-[![](https://visitcount.itsvg.in/api?id=filippo-ferrando&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+<a href="https://visitcount.itsvg.in" target="blank"><img align="center" src="https://visitcount.itsvg.in/api?id=filippo-ferrando&icon=0&color=0" alt="profile-visit"/></a>
+</p>
