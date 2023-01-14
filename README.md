@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [this IA project!](https://github.com/chassis-squad)
 - 👨‍💻 All of my projects are available at [@filippo-ferrando](https://github.com/filippo-ferrando?tab=repositories)
 - 💬 Interested in **Linux systems, Blockchain, Cybersecurity and IoT**
-- 📫 How to reach me: 📧[Mail](mailto:ferrandodfilippo@protonmail.com)
+- 📫 How to reach me: 📧[Mail](mailto:ferrandodfilippo@protonmail.com) or 🍐[Telegram](https://t.me/FilippoFerrando)
 - 📎 Here you can find my Curriculum Vitae: [CV](https://github.com/filippo-ferrando/curriculum-vitae)
 - 📄 If you want to know more about me: [my Portfolio](https://filippo-ferrando.github.io/)
 
