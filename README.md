@@ -2,7 +2,7 @@
 <h3 align="center">I'm an Italian CS student</h3>
 
 
-# 💫 About Me:
+# 💫 [About Me](https://www.16personalities.com/intj-personality):
 - 🔭 I’m currently working on [this IA project!](https://github.com/chassis-squad)
 - 👨‍💻 All of my projects are available at [@filippo-ferrando](https://github.com/filippo-ferrando?tab=repositories)
 - 💬 Interested in **Linux systems, Blockchain, Cybersecurity and IoT**
