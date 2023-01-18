@@ -9,6 +9,7 @@
 - 📫 How to reach me: 📧[Mail](mailto:ferrandodfilippo@protonmail.com) or 🍐[Telegram](https://t.me/FilippoFerrando)
 - 📎 Here you can find my Curriculum Vitae: [CV](https://github.com/filippo-ferrando/curriculum-vitae)
 - 📄 If you want to know more about me: [my Portfolio](https://filippo-ferrando.github.io/)
+- 🧮 I started a blog for 2023, [read my articles here!](https://filippo-ferrando.github.io/blog/1/)
 
 
 # 💻 Tech Stack:
