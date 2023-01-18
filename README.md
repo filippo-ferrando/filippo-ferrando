@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Filippo Ferrando!</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+,+I+'+m+Filippo+Ferrando+!;Welcome+to+my+GitHub+profile!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+</p>
+
+
 <h3 align="center">I'm an Italian CS student</h3>
 
 
