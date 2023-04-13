@@ -7,7 +7,7 @@
 
 
 # 💫 [About Me](https://www.16personalities.com/intj-personality):
-- 🔭 My last project! [Garbage collector](https://github.com/filippo-ferrando/garbage-collector)
+- 🔭 My last project! [Elixir](https://github.com/filippo-ferrando/elixir)
 - 👨‍💻 All of my projects are available at [@filippo-ferrando](https://github.com/filippo-ferrando?tab=repositories)
 - 💬 Interested in **Linux systems, Blockchain, Cybersecurity and IoT**
 - 📫 How to reach me: 📧[Mail](mailto:ferrandodfilippo@protonmail.com) or 🍐[Telegram](https://t.me/FilippoFerrando)
