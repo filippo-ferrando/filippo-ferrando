@@ -21,7 +21,7 @@
 
 # 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=filippo-ferrando&theme=gitdimmed&no-frame=false&no-bg=false&margin-w=4"></>
+  <img src="https://github-trophies.vercel.app/?username=filippo-ferrando&theme=discord&rank=SECRET,A,AA,AAA,B,C"></>
 </p>
 
 
