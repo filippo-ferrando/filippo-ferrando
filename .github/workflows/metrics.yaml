@@ -43,6 +43,3 @@ jobs:
           plugin_repositories_pinned: 1
           plugin_repositories_random: 1
           plugin_repositories_starred: 1
-          plugin_rss: yes
-          plugin_rss_limit: 2
-          plugin_rss_source: https://filippo-ferrando.github.io/rss
