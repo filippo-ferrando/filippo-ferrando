@@ -22,10 +22,6 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_octicon: yes
           config_timezone: Europe/Rome
-          plugin_16personalities: yes
-          plugin_16personalities_scores: yes
-          plugin_16personalities_sections: personality
-          plugin_16personalities_url: https://www.16personalities.com/it/personalita-intj
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
@@ -48,10 +44,3 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_stars: yes
           plugin_stars_limit: 2
-          plugin_steam: yes
-          plugin_steam_achievements_limit: 2
-          plugin_steam_games_limit: 1
-          plugin_steam_playtime_threshold: 2
-          plugin_steam_recent_games_limit: 1
-          plugin_steam_sections: player, most-played, recently-played
-          plugin_steam_user: 76561198350889774
