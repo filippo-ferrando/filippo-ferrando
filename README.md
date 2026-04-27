@@ -1,8 +1,8 @@
 ![stats](./dist/stats.svg)
 
-![trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME)
+![trophies](https://github-profile-trophy.vercel.app/?username=filippo-ferrando)
 
-![activity](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact)
+![activity](https://github-readme-activity-graph.vercel.app/graph?username=filippo-ferrando&theme=github-compact)
 
 ![snake](./dist/snake.svg)
 
