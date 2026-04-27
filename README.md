@@ -1,6 +1,10 @@
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
+![stats](./dist/stats.svg)
+
+![trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME)
+
+![activity](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact)
+
+![snake](./dist/snake.svg)
 
 # ✈️ Connect with me:
 <p align="center">
